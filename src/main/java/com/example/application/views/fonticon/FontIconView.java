@@ -12,6 +12,35 @@ import com.vaadin.flow.router.RouteAlias;
 public class FontIconView extends VerticalLayout {
 
     public FontIconView() {
-        
+        /*
+         * Task 1. Font
+         * 
+         * - Add FontAwesome icon font to the app (from test-resources)
+         * 
+         * - Add a FontIcon using an icon from the FontAwesome collection
+         * 
+         * - Add a button that changes the icon on click
+         */
+
+        /*
+         * Task 2. FontFamily and char
+         *
+         * - Add Lumo icon font to the app (from test-resources)
+         *
+         * - Add a FontIcon using an icon from the Lumo icons collection
+         *
+         * - Add a button that changes the icon on click
+         */
+
+         /*
+          * Task 3. Ligatures
+          * 
+          * - Add Material icon font to the app (from test-resources)
+          * 
+          * - Add a FontIcon using an icon from the Material icons collection.
+          * Use icon ligatures (not codepoint).
+          * 
+          * - Add a button that changes the icon on click\
+          */
     }
 }
