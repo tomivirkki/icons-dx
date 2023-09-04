@@ -26,7 +26,7 @@ public class SvgIconView extends VerticalLayout {
          * 
          * - Add a SvgIcon using the SVG file with the "code-branch" sprite
          * 
-         * - Add another SvgIcon using the same file with the "user" sprite
+         * - Change icon to use the "user" sprite from the same file
          */
     }
 
